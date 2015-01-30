@@ -1,13 +1,10 @@
 [{
-    "name": "BOLD Scholarship",
-    "years": 2011,
-    "grade": "Freshmen"
+    "name": "Schumann Merit Scholarship",
+    "years": "2011-2015"
 }, {
-    "name": "APO Fundraising Chair",
-    "years": 2012,
-    "grade": "Sophmore"
+    "name": "Merit Badge University Chair",
+    "years": "2014-2015"
 }, {
     "name": "Dean's List",
-    "years": 2014,
-    "grade": "Senior"
+    "years": "Fall 2011, Spring 2012, Spring 2013, Fall 2013, Spring 2014, Fall 2014"
 }]

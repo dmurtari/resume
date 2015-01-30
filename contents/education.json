@@ -1,17 +1,22 @@
 [{
 	"topic": "Major",
-    "class": "Computer Science, Math"
+  "class": "Computer Science"
 
 }, {
 	"topic": "Track",
-    "class": "Human-Centered Design"
+   "class": "Software Engineering"
 
 }, {
 	"topic": "Minor",
-    "class": "Technology, Arts & Media"
+  "class": "Leadership"
 
 }, {
-	"topic": "GPA",
-	"class": "3.5"
-
+  "topic": "Certificate",
+  "class": "International Engineering Certificate, Japanese"
+}, {
+	"topic": "Overall GPA",
+	"class": "3.81"
+}, {
+  "topic": "Major GPA",
+  "class": "3.89"
 }]
