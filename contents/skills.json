@@ -8,20 +8,16 @@
     "image": "cpp.png"
 },
 {
-    "title": "Paying Bills",
-    "image": "cash.png"
-},
-{
     "title": "Java",
     "image": "java.png"
 },
 {
-    "title": "Ruby on Rails",
-    "image": "rails.png"
-},
-{
     "title": "Ruby",
     "image": "ruby.png"
+},
+{
+    "title": "Ruby on Rails",
+    "image": "rails.png"
 },
 {
     "title": "Bootstrap",
@@ -32,8 +28,11 @@
     "image": "js.png"
 },
 {
-    "title": "Best Design Practices",
-    "description": "I am familiar with best design practices including, Object Oriented Design, Test Driven Deveolpment, Auto-Documentation, and Version Control.",
+    "title": "Hadoop",
+    "image": "hadoop.png"
+},
+{
+    "title": "Github",
     "image": "github.png"
 }
 ]

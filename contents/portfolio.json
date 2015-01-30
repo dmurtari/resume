@@ -1,17 +1,17 @@
 [{
-    "name": "BuilderGame",
-    "position": "Creator",
-    "link": "https://github.com/entzel/BuilderGame",
-    "image": "buildergame.png"
+    "name": "MBU Online",
+    "position": "Co-Creator",
+    "link": "https://github.com/dmurtari/mbuonline",
+    "image": ""
 }, {
-    "name": "TIM Processing System",
-    "position": "Undergraduate Data Systems Research assistant",
-    "link": "http://lasp.colorado.edu/home/",
+    "name": "ReadyGo",
+    "position": "Senior Project",
+    "link": "https://github.com/CUBoulderBoy/APICE",
     "image": ""
   
 }, {
-    "name": "ReviewsOnRails",
-    "position": "Co-creator",
-    "link": "http://reviewsonrails.herokuapp.com/",
-    "image": "reviewsite.png"
+    "name": "Automaton",
+    "position": "Undergraduate Research Assistant",
+    "link": "https://github.com/dmurtari/automaton",
+    "image": ""
 }]

@@ -1,18 +1,25 @@
 [{
-    "company": "InspireSmart",
-    "position": "Android Development Intern",
-    "start_date": "June 2012",
-    "end_date": "August 2012",
-    "desc": [
-        "Developing an android application: responsible for design and data management"
-    ]
-}, {
-    "company": "Sandia National Labs",
-    "position": "Software Engineering Intern",
-    "start_date": "May 2014",
+    "company": "CU Boulder",
+    "position": "Student Assistant III",
+    "start_date": "August 2011",
     "end_date": "Present",
     "desc": [
-        "Working on a Ruby on Rails app as the main developer which will be used by US Customs and Border Protection.",
-        "Worked on a side Android project which deals with different types of data visualization"
+        "Assisting with various tasks for the Psychology Department. Gained trust from supervisor by performing daily tasks without being asked to, and completing those tasks quickly and to a high standard."
+    ]
+}, {
+    "company": "Echostar",
+    "position": "Software Engineering Intern",
+    "start_date": "May 2014",
+    "end_date": "August 2014",
+    "desc": [
+        "Quickly learned to use, with no prior experience, Hive and HBase to analyze logs from users accessing the Dish Anywhere website. Learned how to efficiently look at millions of rows of logs and wrote custom Map-Reduce jobs to extract useful information.Gained experience with database design and management."
+    ]
+}, {
+    "company": "CU Boulder",
+    "position": "Undergraduate Research Assistant",
+    "start_date": "August 2013",
+    "end_date": "May 2014",
+    "desc": [
+        "Helped to design and implement a system in Python to automatically deploy, execute, and collect data from benchmarks running on infrastructure clouds. Built off of previous students’ work and worked with graduate students and faculty."
     ]
 }]
